@@ -1,0 +1,3 @@
+-Built an Ubuntu VM in VirtualBox
+-Connected over SSH
+-Created an SSH key and linked it to Github
