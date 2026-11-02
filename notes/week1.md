@@ -1,6 +1,6 @@
 # Week 1 notes
 
-## What i built
+## What I built
 
 
 - Built an Ubuntu VM in VirtualBox
