@@ -6,7 +6,7 @@
 - Built an Ubuntu VM in VirtualBox
 - Connected over SSH
 
-## WHat I learned
+## What I learned
 
 - SSH used a key pait: a private key that stays secret and a public key that foes on GitHub.
 
