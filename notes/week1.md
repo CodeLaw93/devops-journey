@@ -16,3 +16,11 @@
 - 'git add'
 - 'git commit'
 
+## Linux navigation
+
+- 'pwd': Shows where I am.
+- 'cd /': Goes to the top of the filesystem.
+- 'cd ~': Goes straight to my home folder, '/home/"foldername"'.
+- 'cd ..': Goes up one level to the parent folder.
+- 'ls': Short for list, shows what's inside a folder.
+- 'ls -l': Shows what's inside a folder in long format.
